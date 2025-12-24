@@ -40,6 +40,9 @@ Generates placeholder text (Lorem Ipsum) of custom length. Useful for testing la
 #### TXT Comparison <br>
 Compares two `.txt` files and highlights differences. Handy for quickly spotting changes in text data or code files.
 
+#### Fan Airflow Calculator <br>
+Allows  to calculate fan statistics and create a chart
+
 ## 🤔 Purpose
 
 These are ready-to-use scripts that may come in handy someday.  
