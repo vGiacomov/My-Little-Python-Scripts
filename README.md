@@ -36,6 +36,16 @@ Calculates fan statistics and creates visualization charts for airflow analysis.
 
 ---
 
+### QR Code Generator
+Generates QR codes from any text or link and allows saving them as image files. Ideal for quickly creating QR codes for URLs, Wi-Fi credentials, or any custom text.
+
+**Features:**
+- Generates QR codes from user input
+- Live preview of the generated QR code
+- Save QR codes as `.png` files
+- Simple and intuitive GUI
+
+
 ## 🚀 Quick Start
 
 ### Running Scripts
@@ -111,7 +121,10 @@ My-Little-Python-Scripts/
 ├── TXT Comparison/
 │   ├── source files
 │   └── executable
-└── Fan Airflow Calculator/
+├── Fan Airflow Calculator/
+│   ├── source files
+│   └── executable
+└── QR Code Generator
     ├── source files
     └── executable
 ```
